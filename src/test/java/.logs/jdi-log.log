@@ -1,0 +1,1136 @@
+07:31.39 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:36.326 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:36.327 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:36.471 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:43.681 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:43.912 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:44.439 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:44.674 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:44.674 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:44.676 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:45.917 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:46.136 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:46.201 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:46.713 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:46.714 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:46.716 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:47.993 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:48.200 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:48.214 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:48.393 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:48.393 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:48.394 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:49.175 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:49.402 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:49.444 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:49.972 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:49.973 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:49.974 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:50.744 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:50.949 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:51.299 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:54.620 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:54.620 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:54.623 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:55.439 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:55.644 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:55.652 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:55.826 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:55.826 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:55.827 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:56.721 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:57.00 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:57.34 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:57.339 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:57.339 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:57.340 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:59.10 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:59.215 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:59.223 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+07:59.494 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:59.495 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:59.496 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:01.412 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:01.618 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+08:01.629 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+08:01.995 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:01.995 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:01.996 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:03.590 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:03.794 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:16.825 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:21.704 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:21.705 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:21.716 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:23.756 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:23.970 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:24.889 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:25.211 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:25.211 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:25.212 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:27.351 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:27.557 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:27.586 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:27.794 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:27.796 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:27.797 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:29.652 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:29.856 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:29.871 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:30.102 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:30.102 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:30.103 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:31.52 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:31.265 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:31.301 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:31.721 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:31.722 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:31.723 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:32.587 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:33.544 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:34.977 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:36.670 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:36.671 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:36.672 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:38.258 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:38.464 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:38.482 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:38.724 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:38.724 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:38.725 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:40.730 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:40.944 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:40.970 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:41.239 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:41.239 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:41.241 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:42.120 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:42.333 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:42.365 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:42.760 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:42.760 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:42.761 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:43.568 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:43.775 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+11:43.784 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+11:44.44 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:44.44 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:44.45 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:45.310 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:45.518 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+41:06.255 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:11.214 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:11.215 [JDI:INFO]: Use driver path: C:\Users\РћР»РµСЃСЏ\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:11.259 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:13.652 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:13.864 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+41:14.290 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:14.620 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:14.620 [JDI:INFO]: Use driver path: C:\Users\РћР»РµСЃСЏ\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:14.621 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:15.448 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:15.662 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+41:15.742 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:16.104 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:16.105 [JDI:INFO]: Use driver path: C:\Users\РћР»РµСЃСЏ\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:16.106 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:17.931 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:18.141 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+41:18.212 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:18.428 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:18.428 [JDI:INFO]: Use driver path: C:\Users\РћР»РµСЃСЏ\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:18.429 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:19.336 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:19.570 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+41:19.614 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:20.147 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:20.148 [JDI:INFO]: Use driver path: C:\Users\РћР»РµСЃСЏ\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:20.149 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:21.92 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:21.311 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+07:37.339 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+07:41.317 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:41.318 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:41.738 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:43.618 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:43.831 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+07:44.294 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:44.295 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:44.296 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:45.768 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:46.198 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:46.198 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:46.199 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:47.431 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:47.741 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:47.742 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:47.743 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:49.500 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:50.12 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:50.13 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:50.14 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:51.572 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:52.115 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:52.116 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:52.117 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:53.260 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:55.488 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+07:58.270 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+07:58.270 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+07:58.271 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+07:59.628 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+07:59.839 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+08:00.664 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:00.665 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:00.666 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:03.178 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:03.595 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:03.595 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:03.596 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:04.822 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:05.495 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:05.495 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:05.496 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:06.608 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:07.363 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:07.364 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:07.364 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:08.404 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+08:09.835 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+08:09.835 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+08:09.836 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+08:10.885 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:21.26 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+20:30.172 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:30.176 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:30.228 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:31.792 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:32.10 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+20:33.42 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:33.43 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:33.45 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:34.177 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:34.609 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:34.609 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:34.611 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:36.421 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:36.998 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:36.999 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:37.00 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:38.337 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:38.881 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:38.881 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:38.882 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:40.29 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:41.21 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:41.21 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:41.22 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:42.187 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:44.740 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+20:47.289 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:47.289 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:47.290 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:48.534 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:48.755 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+20:49.185 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:49.185 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:49.186 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:50.608 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:51.461 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:51.461 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:51.462 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:52.586 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:53.265 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:53.266 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:53.267 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:54.78 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:54.417 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:54.418 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:54.419 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:55.460 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+20:55.838 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:55.838 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:55.839 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+20:57.335 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:39.897 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:45.588 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:45.591 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:45.609 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:47.450 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:47.669 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+41:48.217 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:49.618 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:49.619 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:49.620 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:51.21 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:51.242 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+41:51.333 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:51.563 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:51.563 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:51.565 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:52.415 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:52.623 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+41:52.632 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:52.902 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:52.902 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:52.904 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:53.869 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:54.83 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+41:54.97 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:54.326 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:54.326 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:54.328 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+41:55.726 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+41:56.09 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+41:58.121 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+41:59.836 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:59.837 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+41:59.837 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+42:01.413 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+42:01.868 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+42:01.957 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+42:02.389 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:02.390 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:02.391 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+42:03.619 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+42:03.844 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+42:03.874 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+42:04.267 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:04.268 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:04.269 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+42:05.279 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+42:05.498 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+42:05.511 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+42:05.759 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:05.759 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:05.761 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+42:06.655 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+42:06.864 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+42:06.881 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+42:07.126 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:07.127 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:07.128 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+42:09.319 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+42:09.562 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+44:17.450 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+44:21.984 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:21.990 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:22.55 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:24.939 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:25.181 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+44:26.98 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:26.98 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:26.99 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:27.812 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:28.379 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:28.379 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:28.380 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:29.203 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:29.572 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:29.573 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:29.574 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:31.365 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:31.742 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:31.743 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:31.744 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:32.968 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:33.573 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:33.574 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:33.575 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:34.619 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:36.922 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+44:39.77 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:39.77 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:39.78 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:40.305 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:40.684 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+44:41.128 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:41.128 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:41.129 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:41.877 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:42.288 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:42.289 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:42.290 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:43.344 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:43.518 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:43.518 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:43.519 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:44.302 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:45.812 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:45.812 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:45.813 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:46.560 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+44:46.765 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+44:46.765 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+44:46.766 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+44:47.703 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:32.436 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+46:37.82 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:37.84 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:37.105 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:38.679 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:38.917 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+46:40.24 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:40.24 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:40.25 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:41.404 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:42.242 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:42.242 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:42.244 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:43.360 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:43.771 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:43.772 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:43.773 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:44.713 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:45.17 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:45.17 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:45.18 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:45.989 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:46.419 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:46.420 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:46.421 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:47.881 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:49.727 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+46:52.111 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:52.111 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:52.112 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:53.124 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:53.363 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+46:54.291 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:54.291 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:54.293 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:55.363 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:55.987 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:55.987 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:55.988 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:57.49 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:57.380 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:57.380 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:57.382 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+46:58.253 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:58.908 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:58.910 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:58.911 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+47:00.15 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+47:01.280 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+47:01.280 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+47:01.281 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+47:02.290 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:24.420 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+06:29.22 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:29.23 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:29.40 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:30.385 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:30.597 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+06:31.604 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:31.605 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:31.606 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:32.843 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:34.786 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:34.786 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:34.788 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:35.642 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:36.293 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:36.294 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:36.295 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:37.147 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:37.418 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:37.419 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:37.420 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:38.571 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:38.899 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:38.899 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:38.900 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:40.870 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:42.113 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+06:44.112 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:44.113 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:44.114 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:45.242 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:45.459 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+06:45.910 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:45.911 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:45.912 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:47.654 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:48.411 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:48.411 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:48.412 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:49.456 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:50.166 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:50.167 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:50.168 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:51.158 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:51.435 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:51.436 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:51.437 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:52.471 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+06:52.735 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+06:52.735 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+06:52.736 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+06:54.255 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:40.935 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+11:45.877 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:45.886 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:45.957 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:47.895 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:48.107 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+11:49.245 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:49.246 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:49.247 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:50.126 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:50.541 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:50.541 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:50.542 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:52.101 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:52.691 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:52.691 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:52.692 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:53.650 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:54.326 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:54.326 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:54.328 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:55.89 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:55.352 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+11:55.353 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+11:55.354 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+11:56.235 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+11:59.975 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+12:01.134 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:01.134 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:01.135 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:02.425 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+12:02.629 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+12:02.903 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:02.904 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:02.906 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:04.214 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+12:04.564 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:04.564 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:04.566 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:06.958 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+12:07.370 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:07.370 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:07.371 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:08.133 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+12:08.630 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:08.630 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:08.632 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:09.678 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+12:09.920 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+12:09.921 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+12:09.921 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+12:11.251 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+16:35.825 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+16:47.761 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:47.761 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:47.848 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+16:51.460 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+16:51.674 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+16:52.829 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:52.829 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:52.830 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+16:54.30 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+16:54.586 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:54.587 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:54.588 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+16:55.559 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+16:56.268 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:56.268 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:56.270 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+16:58.91 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+16:58.577 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:58.578 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:58.579 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+16:59.600 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:00.311 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:00.311 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:00.312 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:01.76 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:05.17 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+17:05.523 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:05.524 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:05.525 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:06.359 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:06.579 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+17:07.128 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:07.128 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:07.129 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:07.881 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:09.293 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:09.293 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:09.294 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:09.990 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:12.65 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:12.65 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:12.66 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:12.893 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:13.385 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:13.385 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:13.386 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:14.101 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+17:27.122 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+17:27.123 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+17:27.123 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+17:28.179 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+53:54.649 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+53:58.813 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:58.813 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+53:58.834 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:00.381 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+54:00.587 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+54:01.74 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:01.75 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:01.75 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:02.120 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+54:02.298 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:02.298 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:02.299 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:03.124 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+54:03.271 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:03.271 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:03.272 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:04.362 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+54:04.510 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:04.510 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:04.511 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:05.412 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+54:05.585 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:05.585 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:05.586 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+54:06.426 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:45.539 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+09:48.713 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:48.714 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:48.722 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:50.130 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:50.338 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+09:50.788 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:50.788 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:50.789 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:51.930 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:52.169 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:52.169 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:52.170 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:53.87 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:53.241 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:53.241 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:53.242 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:54.252 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:54.401 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:54.401 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:54.402 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:55.244 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+09:55.413 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+09:55.413 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+09:55.414 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+09:56.531 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:14.660 [JDI:STEP]: Open 'Jdi Home Page'(url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html) (Jdi Home Page)
+13:15.963 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:15.963 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:15.970 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:16.857 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:17.67 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=No Domain Found. Use test.properties or JDISettings.DRIVER.domain/index.html; title=)
+13:17.366 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:17.367 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:17.368 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:18.523 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:18.756 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:18.756 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:18.757 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:19.814 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:20.69 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:20.69 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:20.70 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:21.170 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:21.321 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:21.321 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:21.321 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:22.154 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+13:22.322 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+13:22.322 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+13:22.322 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+13:24.266 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+14:36.200 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+14:37.529 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+14:37.530 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+14:37.536 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+14:38.810 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+14:39.27 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+14:39.492 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+14:39.492 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+14:39.493 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+14:40.837 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+14:41.61 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+14:41.61 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+14:41.62 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+14:42.248 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:35.115 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+28:36.919 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:36.920 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:36.926 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:38.661 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:38.872 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+28:39.230 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:39.230 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:39.231 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:40.127 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:40.335 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:40.336 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:40.336 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:41.510 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:41.665 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:41.665 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:41.666 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:42.507 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:42.656 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:42.656 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:42.656 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:43.791 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+28:43.958 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+28:43.958 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+28:43.958 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+28:45.311 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:06.115 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+34:08.837 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:08.837 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:08.843 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:09.938 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:10.144 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+34:10.530 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:10.530 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:10.530 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:11.647 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:11.854 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:11.854 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:11.855 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:12.988 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:13.129 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:13.129 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:13.130 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:14.232 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:14.374 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:14.374 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:14.375 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:15.461 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+34:15.610 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+34:15.610 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+34:15.611 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+34:16.478 [JDI:INFO]: Download driver: 'CHROME X32 81.0.4044.138' successfully
+46:08.511 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+46:08.563 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+46:08.565 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+46:10.284 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+46:10.315 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:10.319 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+46:10.319 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+46:10.330 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+46:10.332 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/remote/AbstractDriverOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+46:18.676 [JDI:INFO]: Page 'Jdi Home Page' opened
+46:18.696 [JDI:STEP]: Click on 'User Icon' (User Icon)
+46:19.270 [JDI:STEP]: Login as hw_JDI.entities.User@258fe58c (Jdi Login Form)
+47:05.728 [JDI:STEP]: Get 'User Name' text (User Name)
+47:05.792 [JDI:STEP]: >>> ROMAN IOVLEV
+47:05.796 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+47:06.949 [JDI:INFO]: Page 'Metals And Colors Page' opened
+47:06.950 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+47:18.17 [JDI:STEP]: Select '2' in 'Even Sum' (Even Sum)
+47:28.908 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+47:39.741 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+47:50.545 [JDI:STEP]: Select 'Red' in 'Colors' (Colors)
+48:21.851 [JDI:STEP]: Select 'Gold' in 'Metals' (Metals)
+48:53.331 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+49:24.589 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+49:30.32 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+49:55.749 [JDI:STEP]: Get 'Results' text (Results)
+49:55.808 [JDI:STEP]: >>> Summary: 3
+Elements: Water, Fire
+Color: Red
+Metal: Gold
+Vegetables: Cu...
+49:57.591 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+49:57.596 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+49:57.596 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+49:59.119 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+49:59.135 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+49:59.136 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+49:59.137 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+49:59.138 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+49:59.138 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/remote/AbstractDriverOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+50:07.81 [JDI:INFO]: Page 'Jdi Home Page' opened
+50:07.81 [JDI:STEP]: Click on 'User Icon' (User Icon)
+50:07.295 [JDI:STEP]: Login as hw_JDI.entities.User@258fe58c (Jdi Login Form)
+50:53.569 [JDI:STEP]: Get 'User Name' text (User Name)
+50:53.620 [JDI:STEP]: >>> ROMAN IOVLEV
+50:53.620 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+50:55.397 [JDI:INFO]: Page 'Metals And Colors Page' opened
+50:55.398 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+51:06.312 [JDI:STEP]: Select '8' in 'Even Sum' (Even Sum)
+51:17.227 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+51:28.221 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+51:39.203 [JDI:STEP]: Select 'Green' in 'Colors' (Colors)
+52:10.496 [JDI:STEP]: Select 'Silver' in 'Metals' (Metals)
+52:41.884 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+53:12.897 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+53:18.384 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+53:23.865 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+53:49.579 [JDI:STEP]: Get 'Results' text (Results)
+53:49.625 [JDI:STEP]: >>> Summary: 9
+Elements: Earth, Wind
+Color: Green
+Metal: Silver
+Vegetables...
+53:51.290 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+53:51.295 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+53:51.295 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+53:52.51 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+53:52.62 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+53:52.63 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:52.63 [JDI:INFO]: Use driver path: C:\Users\Kesha\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+53:52.64 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+53:52.64 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': org.openqa.selenium.chrome.ChromeOptions.addArguments([Ljava/lang/String;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+Chrome: PageLoadStrategy:normal: org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(Lorg/openqa/selenium/PageLoadStrategy;)Lorg/openqa/selenium/remote/AbstractDriverOptions;
+Chrome: setExperimentalOption: prefs: org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(Ljava/lang/String;Ljava/lang/Object;)Lorg/openqa/selenium/chromium/ChromiumOptions;
+53:57.385 [JDI:INFO]: Page 'Jdi Home Page' opened
+53:57.385 [JDI:STEP]: Click on 'User Icon' (User Icon)
+53:57.588 [JDI:STEP]: Login as hw_JDI.entities.User@258fe58c (Jdi Login Form)
+37:22.123 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+37:22.590 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+37:22.596 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+37:26.914 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+37:27.17 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+37:27.32 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+37:27.37 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+37:27.344 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+37:27.346 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+38:09.862 [JDI:INFO]: Page 'Jdi Home Page' opened
+38:09.988 [JDI:STEP]: Click on 'User Icon' (User Icon)
+38:11.67 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+39:03.841 [JDI:STEP]: Get 'User Name' text (User Name)
+39:04.13 [JDI:STEP]: >>> ROMAN IOVLEV
+39:04.20 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+39:05.966 [JDI:INFO]: Page 'Metals And Colors Page' opened
+39:05.968 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+39:19.672 [JDI:STEP]: Select '2' in 'Even Sum' (Even Sum)
+39:33.385 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+39:48.372 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+40:04.907 [JDI:STEP]: Select 'Red' in 'Colors' (Colors)
+40:39.768 [JDI:STEP]: Select 'Gold' in 'Metals' (Metals)
+41:28.192 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+42:02.925 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+42:10.250 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+42:37.737 [JDI:STEP]: Get 'Results' text (Results)
+42:37.900 [JDI:STEP]: >>> Summary: 3
+Elements: Water, Fire
+Color: Red
+Metal: Gold
+Vegetables: Cu...
+42:43.961 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+42:43.986 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+42:43.998 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+42:46.559 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+42:46.570 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:46.572 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:46.573 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+42:46.575 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+42:46.575 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+43:01.935 [JDI:INFO]: Page 'Jdi Home Page' opened
+43:01.936 [JDI:STEP]: Click on 'User Icon' (User Icon)
+43:03.271 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+43:55.475 [JDI:STEP]: Get 'User Name' text (User Name)
+43:55.589 [JDI:STEP]: >>> ROMAN IOVLEV
+43:55.590 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+43:59.424 [JDI:INFO]: Page 'Metals And Colors Page' opened
+43:59.426 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+44:13.42 [JDI:STEP]: Select '8' in 'Even Sum' (Even Sum)
+44:26.527 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+44:41.492 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+44:57.09 [JDI:STEP]: Select 'Green' in 'Colors' (Colors)
+45:36.974 [JDI:STEP]: Select 'Silver' in 'Metals' (Metals)
+46:17.355 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+46:54.213 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+47:01.654 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+47:09.244 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+47:36.556 [JDI:STEP]: Get 'Results' text (Results)
+47:36.915 [JDI:STEP]: >>> Summary: 9
+Elements: Earth, Wind
+Color: Green
+Metal: Silver
+Vegetables...
+47:46.262 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+47:46.267 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+47:46.270 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+47:49.477 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+47:49.485 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+47:49.486 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+47:49.487 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+47:49.488 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+47:49.488 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+48:13.12 [JDI:INFO]: Page 'Jdi Home Page' opened
+48:13.13 [JDI:STEP]: Click on 'User Icon' (User Icon)
+48:14.767 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+49:16.320 [JDI:STEP]: Get 'User Name' text (User Name)
+49:16.472 [JDI:STEP]: >>> ROMAN IOVLEV
+49:16.473 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+49:17.974 [JDI:INFO]: Page 'Metals And Colors Page' opened
+49:17.976 [JDI:STEP]: Select '7' in 'Odd Sum' (Odd Sum)
+49:32.379 [JDI:STEP]: Select '8' in 'Even Sum' (Even Sum)
+49:47.213 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+50:01.861 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+50:16.381 [JDI:STEP]: Select 'Blue' in 'Colors' (Colors)
+50:51.149 [JDI:STEP]: Select 'Bronze' in 'Metals' (Metals)
+51:33.200 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+52:14.951 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+52:25.299 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+52:32.456 [JDI:STEP]: Select 'Onion' in 'Vegetables' (Vegetables)
+52:39.477 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+53:06.721 [JDI:STEP]: Get 'Results' text (Results)
+53:06.853 [JDI:STEP]: >>> Summary: 15
+Elements: Earth, Fire
+Color: Blue
+Metal: Bronze
+Vegetables...
+53:15.769 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+53:15.779 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+53:15.785 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+53:25.723 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+53:25.730 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+53:25.731 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:25.732 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+53:25.732 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+53:25.733 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+53:50.272 [JDI:INFO]: Failed to download driver (CHROME latest) of latest version:TRY TO GET DRIVER PREVIOUS VERSION
+53:50.484 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+53:50.495 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+53:50.496 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+54:11.730 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+54:11.737 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:11.738 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:11.738 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:11.739 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+54:11.739 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+54:54.96 [JDI:INFO]: Screenshot: C:\Users\Олеся\Documents\ОЛЕСЯ\EPAM\OlesyaSashkoJDI\target\.logs\screens\screen2020-06-21-20-53-50jpg
+54:54.100 [JDI:ERROR]: Failed actions chain: WebPage.open(String)
+54:56.741 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+54:56.748 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+54:56.763 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+54:58.96 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+54:58.106 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:58.107 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+54:58.107 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+54:58.108 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+54:58.108 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+55:22.83 [JDI:INFO]: Page 'Jdi Home Page' opened
+55:22.84 [JDI:STEP]: Click on 'User Icon' (User Icon)
+55:26.458 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+56:17.262 [JDI:STEP]: Get 'User Name' text (User Name)
+56:17.494 [JDI:STEP]: >>> ROMAN IOVLEV
+56:17.495 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+56:19.940 [JDI:INFO]: Page 'Metals And Colors Page' opened
+56:19.941 [JDI:STEP]: Select '7' in 'Odd Sum' (Odd Sum)
+56:37.360 [JDI:STEP]: Select '2' in 'Even Sum' (Even Sum)
+56:54.756 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+57:08.01 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+57:21.362 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+57:36.41 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+57:49.902 [JDI:STEP]: Select 'Blue' in 'Colors' (Colors)
+58:25.68 [JDI:STEP]: Select 'Selen' in 'Metals' (Metals)
+59:00.762 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+59:34.357 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+59:40.703 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+59:46.947 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+59:54.63 [JDI:STEP]: Select 'Onion' in 'Vegetables' (Vegetables)
+00:01.981 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+00:29.627 [JDI:STEP]: Get 'Results' text (Results)
+00:29.738 [JDI:STEP]: >>> Summary: 9
+Elements: Water, Earth, Wind, Fire
+Color: Blue
+Metal: Selen...
+00:33.169 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+00:33.172 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+00:33.172 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+00:39.517 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+00:39.525 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+00:39.526 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+00:39.526 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+00:39.527 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+00:39.527 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+00:54.72 [JDI:INFO]: Page 'Jdi Home Page' opened
+00:54.73 [JDI:STEP]: Click on 'User Icon' (User Icon)
+00:55.508 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+01:47.470 [JDI:STEP]: Get 'User Name' text (User Name)
+01:47.582 [JDI:STEP]: >>> ROMAN IOVLEV
+01:47.583 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+01:48.607 [JDI:INFO]: Page 'Metals And Colors Page' opened
+01:48.608 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+02:01.995 [JDI:STEP]: Select '2' in 'Even Sum' (Even Sum)
+02:15.930 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+02:28.609 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+02:43.234 [JDI:STEP]: Select 'Red' in 'Colors' (Colors)
+03:17.450 [JDI:STEP]: Select 'Gold' in 'Metals' (Metals)
+03:50.303 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+04:25.271 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+04:31.561 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+04:59.691 [JDI:STEP]: Get 'Results' text (Results)
+04:59.844 [JDI:STEP]: >>> Summary: 3
+Elements: Water, Fire
+Color: Red
+Metal: Gold
+Vegetables: Cu...
+05:03.126 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+05:03.130 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+05:03.130 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+05:04.381 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+05:04.390 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+05:04.391 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+05:04.391 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+05:04.392 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+05:04.392 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+05:22.57 [JDI:INFO]: Page 'Jdi Home Page' opened
+05:22.57 [JDI:STEP]: Click on 'User Icon' (User Icon)
+05:24.294 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+06:27.135 [JDI:STEP]: Get 'User Name' text (User Name)
+06:29.485 [JDI:STEP]: >>> ROMAN IOVLEV
+06:29.486 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+06:32.49 [JDI:INFO]: Page 'Metals And Colors Page' opened
+06:32.50 [JDI:STEP]: Select '1' in 'Odd Sum' (Odd Sum)
+06:46.434 [JDI:STEP]: Select '8' in 'Even Sum' (Even Sum)
+06:59.750 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+07:16.133 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+07:29.243 [JDI:STEP]: Select 'Green' in 'Colors' (Colors)
+08:10.793 [JDI:STEP]: Select 'Silver' in 'Metals' (Metals)
+08:49.306 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+09:26.208 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+09:32.450 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+09:40.921 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+10:18.32 [JDI:STEP]: Get 'Results' text (Results)
+10:18.302 [JDI:STEP]: >>> Summary: 9
+Elements: Earth, Wind
+Color: Green
+Metal: Silver
+Vegetables...
+10:39.907 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+10:39.912 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+10:39.913 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+10:42.93 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+10:42.102 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+10:42.104 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+10:42.104 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+10:42.106 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+10:42.106 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+11:02.325 [JDI:INFO]: Page 'Jdi Home Page' opened
+11:02.326 [JDI:STEP]: Click on 'User Icon' (User Icon)
+11:02.992 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+11:59.802 [JDI:STEP]: Get 'User Name' text (User Name)
+12:02.385 [JDI:STEP]: >>> ROMAN IOVLEV
+12:02.386 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+12:05.496 [JDI:INFO]: Page 'Metals And Colors Page' opened
+12:05.497 [JDI:STEP]: Select '7' in 'Odd Sum' (Odd Sum)
+12:30.924 [JDI:STEP]: Select '8' in 'Even Sum' (Even Sum)
+12:59.272 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+13:13.845 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+13:33.732 [JDI:STEP]: Select 'Blue' in 'Colors' (Colors)
+14:12.168 [JDI:STEP]: Select 'Bronze' in 'Metals' (Metals)
+14:50.19 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+15:23.750 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+15:31.729 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+15:38.415 [JDI:STEP]: Select 'Onion' in 'Vegetables' (Vegetables)
+15:46.126 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+16:16.825 [JDI:STEP]: Get 'Results' text (Results)
+16:17.55 [JDI:STEP]: >>> Summary: 15
+Elements: Earth, Fire
+Color: Blue
+Metal: Bronze
+Vegetables...
+16:18.401 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+16:18.404 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+16:18.404 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+16:24.709 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+16:24.718 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:24.719 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+16:24.720 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+16:24.721 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+16:24.721 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+16:41.359 [JDI:INFO]: Page 'Jdi Home Page' opened
+16:41.360 [JDI:STEP]: Click on 'User Icon' (User Icon)
+16:41.792 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+17:31.622 [JDI:STEP]: Get 'User Name' text (User Name)
+17:31.731 [JDI:STEP]: >>> ROMAN IOVLEV
+17:31.732 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+17:34.12 [JDI:INFO]: Page 'Metals And Colors Page' opened
+17:34.13 [JDI:STEP]: Select '5' in 'Odd Sum' (Odd Sum)
+17:46.325 [JDI:STEP]: Select '6' in 'Even Sum' (Even Sum)
+17:59.375 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+18:12.298 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+18:26.337 [JDI:STEP]: Select 'Yellow' in 'Colors' (Colors)
+19:00.741 [JDI:STEP]: Select 'Selen' in 'Metals' (Metals)
+19:34.186 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+20:08.421 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+20:15.667 [JDI:STEP]: Select 'Onion' in 'Vegetables' (Vegetables)
+20:22.515 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+20:48.757 [JDI:STEP]: Get 'Results' text (Results)
+20:48.912 [JDI:STEP]: >>> Summary: 11
+Elements: Water, Wind
+Color: Yellow
+Metal: Selen
+Vegetable...
+20:51.411 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+20:51.413 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+20:51.413 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: ====> http://tiny.cc/wdm-survey <====
+20:52.213 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 83.0.4103.39 (since Chrome 83 is installed in your machine)
+20:52.221 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:52.222 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+20:52.222 [JDI:INFO]: Use driver path: C:\Users\Олеся\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+20:52.254 [JDI:INFO]: Failed to set Default Capabilities for Driver:
+20:52.254 [JDI:INFO]: Errors: Chrome: '--disable-web-security', '--disable-extensions', 'test-type': 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.addArguments(java.lang.String[])'
+Chrome: PageLoadStrategy:normal: 'org.openqa.selenium.remote.AbstractDriverOptions org.openqa.selenium.chrome.ChromeOptions.setPageLoadStrategy(org.openqa.selenium.PageLoadStrategy)'
+Chrome: setExperimentalOption: prefs: 'org.openqa.selenium.chromium.ChromiumOptions org.openqa.selenium.chrome.ChromeOptions.setExperimentalOption(java.lang.String, java.lang.Object)'
+21:06.220 [JDI:INFO]: Page 'Jdi Home Page' opened
+21:06.221 [JDI:STEP]: Click on 'User Icon' (User Icon)
+21:07.441 [JDI:STEP]: Login as hw_JDI.entities.User@7c56f684 (Jdi Login Form)
+21:55.489 [JDI:STEP]: Get 'User Name' text (User Name)
+21:55.590 [JDI:STEP]: >>> ROMAN IOVLEV
+21:55.591 [JDI:STEP]: Open 'Metals And Colors Page'(url=http://jdi-testing.github.io/jdi-light/metals-colors.html) (Metals And Colors Page)
+21:57.765 [JDI:INFO]: Page 'Metals And Colors Page' opened
+21:57.765 [JDI:STEP]: Select '7' in 'Odd Sum' (Odd Sum)
+22:11.514 [JDI:STEP]: Select '2' in 'Even Sum' (Even Sum)
+22:26.169 [JDI:STEP]: Select 'Water' for 'Elements' (Elements)
+22:38.668 [JDI:STEP]: Select 'Earth' for 'Elements' (Elements)
+22:52.541 [JDI:STEP]: Select 'Wind' for 'Elements' (Elements)
+23:09.338 [JDI:STEP]: Select 'Fire' for 'Elements' (Elements)
+23:21.976 [JDI:STEP]: Select 'Blue' in 'Colors' (Colors)
+23:54.430 [JDI:STEP]: Select 'Selen' in 'Metals' (Metals)
+24:28.169 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+25:02.236 [JDI:STEP]: Select 'Cucumber' in 'Vegetables' (Vegetables)
+25:08.317 [JDI:STEP]: Select 'Tomato' in 'Vegetables' (Vegetables)
+25:14.150 [JDI:STEP]: Select 'Vegetables' in 'Vegetables' (Vegetables)
+25:20.467 [JDI:STEP]: Select 'Onion' in 'Vegetables' (Vegetables)
+25:27.786 [JDI:STEP]: Submit 'Metals And Colors Form' and press 'Submit' button (Metals And Colors Form)
+25:54.410 [JDI:STEP]: Get 'Results' text (Results)
+25:54.933 [JDI:STEP]: >>> Summary: 9
+Elements: Water, Earth, Wind, Fire
+Color: Blue
+Metal: Selen...

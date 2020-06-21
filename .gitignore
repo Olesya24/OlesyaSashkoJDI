@@ -1,0 +1,10 @@
+/.idea/
+/target/
+/logs/
+/.allure/
+/allure-results/
+/allure-report
+/*.iml
+/*.class
+/*.zip
+/*.war
